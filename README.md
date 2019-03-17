@@ -1,4 +1,4 @@
-# PLEASE READ BELOW
+## Notice!
 
 1) Set up simulation param in ./Assignment3/Main.cpp
 
