@@ -1,4 +1,4 @@
-# acse6-parallel-programming-mpi-coursework-2-kkf18
+# PLEASE READ BELOW
 
 1) Set up simulation param in ./Assignment3/Main.cpp
 
