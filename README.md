@@ -1,6 +1,6 @@
 # Conway's Game of Life Parallelised
 
-A cellular automaton program, https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life, which has been implemented with C++ and the Message Passing Interface for computational optimisation. Users may specify the domain size, time simulation, and number of computational cores for parallelisation.
+A cellular automaton program, https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life, which has been implemented with C++ and the Message Passing Interface (MPI) for computational optimisation. Users may specify the domain size, time simulation, and number of computational cores for parallelisation.
 Software developed for the ACSE course.
 
 ## How to run
