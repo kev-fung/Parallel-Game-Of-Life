@@ -6,17 +6,21 @@ A cellular automaton program, https://en.wikipedia.org/wiki/Conway%27s_Game_of_L
   <img src="./misc/front_img.gif" alt="front_img" width="300">
 </p>
 
-Users may specify the domain size, time simulation, and number of computational cores for parallelisation - **MPI must be installed before use.**
+Users may specify the domain size, time simulation, and number of computational cores for parallelisation.
+
+## Requirements
+* MPI
+* C++
+* Python
 
 ## How to run
 1. Set up simulation parameters inside Main.cpp
 2. Build files to generate the executable in /Debug
 3. From terminal, run mpiexec in ./Debug/Assignment3.exe
-4. If you haven't already you must install mpi!
-5. After running the .exe the animation is generated.
-6. To view the animation, run visualisation.ipynb
+4. After running the .exe the animation is generated.
+5. To view the animation, run visualisation.ipynb
 
-**NB: Game of life animation folder should be in the same location as the notebook!**
+**NB: Game of life animation folder should be in the same location as the notebook**
 
 ## Software Analysis
 
